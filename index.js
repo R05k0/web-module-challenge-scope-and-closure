@@ -62,8 +62,8 @@ Use the inning function below to do the following:
 NOTE: This will be a callback function for the tasks below
 */
 
-function inning(/*Code Here*/){
-    /*Code Here*/
+function inning(num1, num2 ){
+    return Math.round(num1, num2)
 }
 
 
@@ -81,7 +81,7 @@ Use the finalScore function below to do the following:
 }
 */ 
 
-function finalScore(/*code Here*/){
+function finalScore(num1, num2){
   /*Code Here*/
 }
 
